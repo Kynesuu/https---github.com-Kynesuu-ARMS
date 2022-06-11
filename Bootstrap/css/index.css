@@ -1,0 +1,32 @@
+
+
+body{
+    background-color: rgb(63, 61, 61);
+}
+
+.row{
+    height: 80vh;
+    
+}
+
+.title-text{
+    font-size: 4rem;
+}
+
+.cards{
+    text-decoration:none; 
+    color: dimgray;
+}
+
+.cards:hover{
+    text-decoration:none; 
+    color: whitesmoke;
+}
+
+.image{
+    transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+.image:hover{
+    border: whitesmoke solid 5px;
+}

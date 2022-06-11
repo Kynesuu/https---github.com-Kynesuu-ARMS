@@ -1,0 +1,15 @@
+// if ($_SESSION["LoginAdmin"])
+	// {
+	// 	$student_id = $_GET['ID'] && $_SESSION['LoginStudent'];
+	// }
+	// else if(!$_SESSION["LoginAdmin"] && $_SESSION['LoginStudent']){
+	// 	$student_email = $_SESSION['LoginStudent'];
+	// 	$student_id="";
+	// }
+	// else{ ?>
+	// 	<script> alert("Your Are Not Authorize Person For This link");</script>
+	// <?php
+	// 	header('location:../login/admin-login.php');
+	// }
+	// require_once "../connection/connection.php";
+	?>
